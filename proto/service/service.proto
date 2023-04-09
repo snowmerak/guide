@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option go_package = "./src/service";
+
+message Blank {}
+
+message Datagram {
+  string name = 1;
+  bytes data = 3;
+}
+
+message Notification {
+  string name = 1;
+  string address = 2;
+}
+
+service Service {
+  rpc Send(Datagram) returns (Blank) {}
+  rpc Request(Datagram) returns (Datagram) {}
+  rpc Notify(Notification) returns (Blank) {}
+}
