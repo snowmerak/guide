@@ -9,7 +9,19 @@ message Datagram {
   bytes data = 3;
 }
 
+enum NotificationType {
+  UNKNOWN = 0;
+  CONNECTED = 1;
+  DISCONNECTED = 2;
+}
+
 message Notification {
+  NotificationType type = 1;
+  string name = 2;
+  string address = 3;
+}
+
+message DomainName {
   string name = 1;
   string address = 2;
 }
@@ -18,4 +30,5 @@ service Service {
   rpc Send(Datagram) returns (Blank) {}
   rpc Request(Datagram) returns (Datagram) {}
   rpc Notify(Notification) returns (Blank) {}
+  rpc Resolve(stream DomainName) returns (Blank) {}
 }
