@@ -1,0 +1,24 @@
+@startuml blueprint
+
+database Redis
+
+rectangle Node1 {
+    component SideCar1
+    cloud App1
+}
+
+rectangle Node2 {
+    component SideCar2
+    cloud App2
+}
+
+App1 -down-> SideCar1: register domain
+SideCar1 -down-> Redis: register domain
+App2 -down-> SideCar2: register domain
+SideCar2 -down-> Redis: register domain
+
+App1 -down-> SideCar1: send to App2
+SideCar1 -down-> Redis: get domain of App2 and caching
+SideCar1 --> SideCar2: send to App2
+
+@enduml

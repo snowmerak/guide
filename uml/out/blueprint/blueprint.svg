@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="498px" preserveAspectRatio="none" style="width:641px;height:498px;background:#FFFFFF;" version="1.1" viewBox="0 0 641 498" width="641px" zoomAndPan="magnify"><defs/><g><!--MD5=[4c47283f8f4945521e5705c9195ad83a]
+cluster Node1--><g id="cluster_Node1"><rect fill="none" height="241" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="294" x="220" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="46" x="344" y="22.5352">Node1</text></g><!--MD5=[25144ace6a4248ea8e897599dde1c343]
+cluster Node2--><g id="cluster_Node2"><rect fill="none" height="222" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="168" x="7" y="151"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="46" x="68" y="166.5352">Node2</text></g><!--MD5=[b6f983d4115f5a6a32f93932056ece49]
+entity SideCar1--><g id="elem_SideCar1"><rect fill="#F1F1F1" height="46.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="102" x="257" y="186"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="339" y="191"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="337" y="193"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="337" y="197"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="272" y="219.5352">SideCar1</text></g><!--MD5=[139eb3675d8d2079d38b14966bddfcbb]
+entity App1--><g id="elem_App1"><path d="M315.5139,50.3665 C319.1049,42.9766 324.749,43.0974 329.2474,49.4604 C332.4876,42.81 338.017,41.8214 342.1215,48.6339 C346.0016,42.48 350.9676,44.1359 354.0449,49.4673 C357.8846,43.0039 364.4436,44.5001 367.368,50.4496 C376.3293,53.6807 378.7156,60.409 371.1647,67.3497 C375.7925,73.9876 375.686,78.4727 366.825,80.7384 C365.4847,86.8234 360.28,89.1075 355.7717,83.8167 C351.7666,91.262 347.0366,91.727 341.1699,85.8583 C336.5832,90.7216 331.4291,88.9857 329.0225,83.3386 C324.5995,88.9521 319.5362,88.9066 316.4474,81.9988 C307.1747,81.1243 304.1741,74.8519 309.4525,67.1314 C303.3317,58.5671 305.3312,53.0362 315.5139,50.3665 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="322.5" y="70.5352">App1</text></g><!--MD5=[7a5d9a60c40b7505fbbe7e445cc5f439]
+entity SideCar2--><g id="elem_SideCar2"><rect fill="#F1F1F1" height="46.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="102" x="57" y="311"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="139" y="316"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="137" y="318"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="137" y="322"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="72" y="344.5352">SideCar2</text></g><!--MD5=[15d2fd687f3b1a03431fe36778ee3e9d]
+entity App2--><g id="elem_App2"><path d="M32.5139,194.3665 C36.1049,186.9766 41.749,187.0974 46.2474,193.4604 C49.4876,186.81 55.017,185.8214 59.1215,192.6339 C63.0016,186.48 67.9676,188.1359 71.0449,193.4673 C74.8846,187.0039 81.4436,188.5001 84.368,194.4496 C93.3293,197.6807 95.7156,204.409 88.1647,211.3497 C92.7925,217.9876 92.686,222.4727 83.825,224.7384 C82.4847,230.8234 77.28,233.1075 72.7717,227.8167 C68.7666,235.262 64.0366,235.727 58.1699,229.8583 C53.5832,234.7216 48.4291,232.9857 46.0225,227.3386 C41.5995,232.9521 36.5362,232.9066 33.4474,225.9988 C24.1747,225.1243 21.1741,218.8519 26.4525,211.1314 C20.3317,202.5671 22.3312,197.0362 32.5139,194.3665 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="39.5" y="214.5352">App2</text></g><!--MD5=[f96d690baea4a0823d36c98ba0c3a2b4]
+entity Redis--><g id="elem_Redis"><path d="M279.5,446 C279.5,436 308,436 308,436 C308,436 336.5,436 336.5,446 L336.5,471.4883 C336.5,481.4883 308,481.4883 308,481.4883 C308,481.4883 279.5,481.4883 279.5,471.4883 L279.5,446 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M279.5,446 C279.5,456 308,456 308,456 C308,456 336.5,456 336.5,446 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="289.5" y="473.5352">Redis</text></g><!--MD5=[b85725001d20ccb6ce1c259a35cd6ddf]
+link App1 to SideCar1--><g id="link_App1_SideCar1"><path d="M307.18,81.03 C292.31,89.57 276.34,101.82 268,118 C257.24,138.88 269.54,163.26 283.26,181.38 " fill="none" id="App1-to-SideCar1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="286.76,184.84,284.3464,175.2915,283.6715,180.9079,278.0551,180.233,286.76,184.84" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="269" y="131.5684">register domain</text></g><!--MD5=[b85725001d20ccb6ce1c259a35cd6ddf]
+link App1 to SideCar1--><g id="link_App1_SideCar1"><path d="M361.29,88.34 C370.89,101.68 379.06,119.08 373,135 C366.22,152.81 352.88,169.04 340.04,181.65 " fill="none" id="App1-to-SideCar1-1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="336.71,184.79,345.9787,181.4596,340.3232,181.3339,340.4489,175.6784,336.71,184.79" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="376" y="131.5684">send to App2</text></g><!--MD5=[fb0ef87da452019312185d6678293fa8]
+link SideCar1 to Redis--><g id="link_SideCar1_Redis"><path d="M308,232.4 C308,277.8 308,380.51 308,429.93 " fill="none" id="SideCar1-to-Redis" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="308,434.68,312,425.68,308,429.68,304,425.68,308,434.68" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="309" y="339.0684">register domain</text></g><!--MD5=[fb0ef87da452019312185d6678293fa8]
+link SideCar1 to Redis--><g id="link_SideCar1_Redis"><path d="M345.14,232.46 C370.63,250.22 402.39,277.55 417,311 C429.45,339.51 431.35,353.4 417,381 C401.37,411.07 367.91,431.78 342.15,444 " fill="none" id="SideCar1-to-Redis-1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="337.78,446.48,347.6278,446.3344,342.3185,444.382,344.271,439.0728,337.78,446.48" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="205" x="428" y="339.0684">get domain of App2 and caching</text></g><!--MD5=[19217aa38419a6a2e652d2a7ed328c23]
+link App2 to SideCar2--><g id="link_App2_SideCar2"><path d="M52.3,232.3 C49.74,246.74 48.55,265.64 55,281 C59,290.53 65.69,299.19 73,306.59 " fill="none" id="App2-to-SideCar2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="76.1,309.57,72.4348,300.4285,72.5148,306.0848,66.8585,306.1648,76.1,309.57" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="56" y="277.5684">register domain</text></g><!--MD5=[483d41ba14c0979fca85f97d17f940ba]
+link SideCar2 to Redis--><g id="link_SideCar2_Redis"><path d="M126.62,357.19 C140.39,372.5 160.27,392.47 181,406 C210.02,424.94 247.12,439 273.72,447.6 " fill="none" id="SideCar2-to-Redis" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="278.23,449.35,270.8616,442.8149,273.4642,447.8375,268.4417,450.4401,278.23,449.35" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="182" y="402.5684">register domain</text></g><!--MD5=[ad968886691ecbb76ee03faf6e06defd]
+link SideCar1 to SideCar2--><g id="link_SideCar1_SideCar2"><path d="M256.59,231.95 C237.11,240.99 215.06,252.13 196,264 C175.67,276.67 154.49,293.15 138,306.84 " fill="none" id="SideCar1-to-SideCar2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="134.48,310.61,143.9508,307.9073,138.3164,307.4034,138.8203,301.7691,134.48,310.61" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="197" y="277.5684">send to App2</text></g><!--MD5=[5c7db43854620763f0793bb3e84aa47d]
+@startuml blueprint
+
+database Redis
+
+rectangle Node1 {
+    component SideCar1
+    cloud App1
+}
+
+rectangle Node2 {
+    component SideCar2
+    cloud App2
+}
+
+App1 -down-> SideCar1: register domain
+SideCar1 -down-> Redis: register domain
+App2 -down-> SideCar2: register domain
+SideCar2 -down-> Redis: register domain
+
+App1 -down-> SideCar1: send to App2
+SideCar1 -down-> Redis: get domain of App2 and caching
+SideCar1 - -> SideCar2: send to App2
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 02:01:30 KST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: KR
+--></g></svg>
